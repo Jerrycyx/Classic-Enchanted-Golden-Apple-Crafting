@@ -1,6 +1,7 @@
 {
     "pack": {
         "pack_format": 26,
-        "description": "Craft \u00a7lenchanted golden apple\u00a7r with both \u00a7napple\u00a7r and \u00a7ngolden apple\u00a7r!"
+        "supported_formats": [4,26],
+        "description": "Add recipes, advancements,... for \u00a7lenchanted golden apples\u00a7r."
     }
 }
